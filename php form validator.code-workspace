@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\Udeny\\Budject app"
+		},
+		{
+			"path": "..\\..\\node\\soccer-angels2"
+		},
+		{
+			"path": "..\\..\\JS PRACTICE"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "simple-email-form-v1",
+		"liveServer.settings.port": 5501
+	}
+}
